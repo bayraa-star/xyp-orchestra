@@ -1,0 +1,19 @@
+{
+  "name": "xyp-orchestra",
+  "version": "1.0.0",
+  "main": "XypSign.js",
+  "scripts": {
+    "start": "node www/cluster.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "soap": "^1.3.0",
+    "xml2js": "^0.6.2",
+    "xmlbuilder": "^15.1.1"
+  }
+}
